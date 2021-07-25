@@ -1,1 +1,1 @@
-Practice on Algorithms and Data Structures on http://usaco.org/
+School practice on Algorithms and Data Structures on http://usaco.org/
